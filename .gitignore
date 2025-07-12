@@ -1,0 +1,8 @@
+venv/
+.env
+*.pyc
+__pycache__/
+photos/
+data/raw/
+telegram_pipeline/target/
+telegram_pipeline/dbt_packages/
